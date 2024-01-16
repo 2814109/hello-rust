@@ -24,3 +24,4 @@ cat src/main.rs
 - command:hexdump : ファイルを 8 進数や 16 進数でダンプする
 - |(pipe) :　割愛
 - less: ページ単位でテキストを表示するためのコマンド。hexdump の出力をスクロールして確認できる
+- command:man : マニュアルを表示する
